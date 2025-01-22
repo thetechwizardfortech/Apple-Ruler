@@ -1,0 +1,1 @@
+// Removed the JavaScript that triggers automatic navigation on hover
